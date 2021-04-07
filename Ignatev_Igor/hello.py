@@ -1,0 +1,1 @@
+print ("DAROVA, KABAN, KAK DELA?")
