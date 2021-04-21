@@ -3,4 +3,6 @@ for i in range(10):
 	print (i)
 def f():
 	pass
+<<<<<<< HEAD
 print("master")
+
